@@ -1,5 +1,10 @@
-<title>Korberl at Blue Menu</title>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Korberl at Blue Menu</title>
+</head>
 
+<body>
 <h1>Korberl at Blue </h1>
 
 <h2>Main Menu</h2>
@@ -119,3 +124,5 @@
 <h5>raspberry coulis, creme anglaise</h5>
 
 <h6>$12.00</h6>
+</body>
+</html>
