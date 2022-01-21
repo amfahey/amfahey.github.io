@@ -12,9 +12,13 @@ h2{
 h3{
     background-color:rgb(191, 223, 252);
 }
+
+h4{
+    text-transform: capitalize;
+    
 h5{
     font-style: italic;
-}
+
 h6{
     font-style: italic;
     color: rgb(206, 206, 206)
