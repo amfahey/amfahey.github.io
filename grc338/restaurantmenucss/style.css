@@ -5,10 +5,17 @@ h1{
 }
 h2{
     color: rgb(67, 152, 231);
-
+}
+.items {
+    background-color: rgb(191, 223, 252);
+}
 h3{
     background-color:rgb(191, 223, 252);
 }
 h5{
     font-style: italic;
+}
+h6{
+    font-style: italic;
+    color: rgb(206, 206, 206)
 }
