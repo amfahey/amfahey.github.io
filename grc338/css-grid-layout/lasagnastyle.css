@@ -107,7 +107,7 @@ figure {
 
 main {  
     display: grid;  
-    grid-template-columns: 50% 50%;  
+    grid-template-columns: 1f 1fr;  
     column-gap: 2em;  
     padding: 1em 4em 3em 4em;  
 }  
